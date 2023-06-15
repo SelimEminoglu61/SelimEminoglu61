@@ -45,3 +45,5 @@
 ![SelimEminoglu61's Stats](https://github-readme-stats.vercel.app/api?username=SelimEminoglu61&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![SelimEminoglu61's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SelimEminoglu61&theme=vue-dark&hide_border=true)
 ![SelimEminoglu61's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimEminoglu61&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelimEminoglu61)](https://github.com/anuraghazra/github-readme-stats)
