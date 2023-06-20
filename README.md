@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Turkcell Bootcamp Geleceği Yazanlar**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [loading.com](loading.com)
 
-- 💬 Ask me about **HTML,CSS,Python**
+- 💬 Ask me about **HTML,CSS,Javascript,Python**
 
 - 📫 How to reach me **selim.eminoglu.9257@gmail.com**
 
