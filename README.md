@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Selim Eminoğlu</h1>
 <h3 align="center">Developing Front-end developer</h3>
 
