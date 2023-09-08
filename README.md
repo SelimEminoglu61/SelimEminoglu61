@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=34BACA00&center=true&vCenter=true&width=1000&lines=Hello%2C+I+am+Selim+Emino%C4%9Flu;I'm+Front-End+Developer;So+Developing+Front-End+Developer+%3A)](https://git.io/typing-svg)
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/selim-eminoglu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/selim-eminoglu/" height="30" width="40" /></a>
