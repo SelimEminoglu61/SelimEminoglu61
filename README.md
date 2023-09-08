@@ -35,4 +35,9 @@
 ![SelimEminoglu61's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SelimEminoglu61&theme=vue-dark&hide_border=true)
 ![SelimEminoglu61's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimEminoglu61&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SelimEminoglu61}/count.svg" /></p> 
+<br></div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
