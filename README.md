@@ -1,18 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=34BACA00&center=true&vCenter=true&width=447&lines=Hello%2C+I+am+Selim+Emino%C4%9Flu;I'm+Front-End+Developer;So+Developing+Front-End+Developer+%3A))](https://git.io/typing-svg)
 
 
-- 🔭 I’m currently working on **Turkcell Bootcamp Geleceği Yazanlar**
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [loading.com](loading.com)
-
-- 💬 Ask me about **HTML,CSS,Javascript,Python**
-
-- 📫 How to reach me **selim.eminoglu.9257@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xMDGuw3ELoqlrJfwHVDt8tURa-TI9Sms/view?usp=share_link](https://drive.google.com/file/d/1xMDGuw3ELoqlrJfwHVDt8tURa-TI9Sms/view?usp=share_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/selim-eminoglu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/selim-eminoglu/" height="30" width="40" /></a>
