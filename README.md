@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,I+am+Selim+Eminoğlu;I'm+Front-End+Developer;So+Developing+Front-End+Developer+:))](https://git.io/typing-svg)
-
 <h1 align="center">Hi 👋, I'm Selim Eminoğlu</h1>
 <h3 align="center">Developing Front-end developer</h3>
 
