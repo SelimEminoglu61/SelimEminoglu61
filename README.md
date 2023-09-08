@@ -2,10 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=34BACA00&center=true&vCenter=true&width=1000&lines=Hello%2C+I+am+Selim+Emino%C4%9Flu;I'm+Front-End+Developer;So+Developing+Front-End+Developer)](https://git.io/typing-svg)
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/selim-eminoglu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/selim-eminoglu/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/selim_eminoglu_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/selim_eminoglu_1" height="30" width="40" /></a>
 <a href="https://medium.com/@selim.eminoglu.9257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@selim.eminoglu.9257" height="30" width="40" /></a>
 <a href="https://twitter.com/selimeminolu3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="selimeminolu3" height="30" width="40" /></a>
