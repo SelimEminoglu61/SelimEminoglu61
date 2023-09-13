@@ -24,11 +24,12 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
-<div align=>
+<div align=center>
 <h3 align="left">Github Statistics:</h3>
   
 ![SelimEminoglu61's Stats](https://github-readme-stats.vercel.app/api?username=SelimEminoglu61&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![SelimEminoglu61's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SelimEminoglu61&theme=vue-dark&hide_border=true)
+
 ![SelimEminoglu61's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimEminoglu61&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
   
 <img src="https://github-profile-trophy.vercel.app/?username=SelimEminoglu61&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
