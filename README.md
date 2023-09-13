@@ -31,9 +31,9 @@
 ![SelimEminoglu61's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SelimEminoglu61&theme=vue-dark&hide_border=true)
 ![SelimEminoglu61's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimEminoglu61&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-  <img src="https://github-profile-trophy.vercel.app/?username=ngalamac&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=ngalamac&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=ngalamac&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SelimEminoglu61&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=SelimEminoglu61&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=SelimEminoglu61&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div>
 
 <div align="center">
