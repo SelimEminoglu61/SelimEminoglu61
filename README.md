@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Selim%20Emino%C4%9Flu&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front%20End%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&color=gradient&customColorList=6,11,20,29&text=Selim%20Emino%C4%9Flu&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front%20End%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=SelimEminoglu61">
